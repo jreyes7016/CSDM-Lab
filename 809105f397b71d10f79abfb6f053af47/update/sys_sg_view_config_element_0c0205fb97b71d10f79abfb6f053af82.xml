@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>u_github_name-FieldValue</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-22 22:15:15</sys_created_on>
+        <sys_id>0c0205fb97b71d10f79abfb6f053af82</sys_id>
+        <sys_name>u_github_name-FieldValue</sys_name>
+        <sys_package display_value="Git hub" source="809105f397b71d10f79abfb6f053af47">809105f397b71d10f79abfb6f053af47</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Git hub">809105f397b71d10f79abfb6f053af47</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_0c0205fb97b71d10f79abfb6f053af82</sys_update_name>
+        <view_config display_value="github Detail Screen View Config">880205fb97b71d10f79abfb6f053af7e</view_config>
+        <view_template_slot display_value="text_02">6c738dbc41e35010f877183fc9b8be9a</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>

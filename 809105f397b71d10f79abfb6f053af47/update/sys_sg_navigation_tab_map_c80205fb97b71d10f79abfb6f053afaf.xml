@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_navigation_tab_map">
+    <sys_sg_navigation_tab_map action="INSERT_OR_UPDATE">
+        <navigation display_value="Mobile Agent">679d4f0653d033002d96ddeeff7b1279</navigation>
+        <navigation_tab display_value="Git hub">4402c1bb97b71d10f79abfb6f053afd4</navigation_tab>
+        <order>160</order>
+        <sys_class_name>sys_sg_navigation_tab_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-22 22:15:16</sys_created_on>
+        <sys_id>c80205fb97b71d10f79abfb6f053afaf</sys_id>
+        <sys_name/>
+        <sys_package display_value="Git hub" source="809105f397b71d10f79abfb6f053af47">809105f397b71d10f79abfb6f053af47</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Git hub">809105f397b71d10f79abfb6f053af47</sys_scope>
+        <sys_update_name>sys_sg_navigation_tab_map_c80205fb97b71d10f79abfb6f053afaf</sys_update_name>
+    </sys_sg_navigation_tab_map>
+</record_update>

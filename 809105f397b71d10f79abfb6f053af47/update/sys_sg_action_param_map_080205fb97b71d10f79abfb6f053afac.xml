@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button (github)">480205fb97b71d10f79abfb6f053afa9</button>
+        <item_parameter display_value="github u_github_name">c00205fb97b71d10f79abfb6f053afa8</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-22 22:15:16</sys_created_on>
+        <sys_id>080205fb97b71d10f79abfb6f053afac</sys_id>
+        <sys_name>c00205fb97b71d10f79abfb6f053afa8</sys_name>
+        <sys_package display_value="Git hub" source="809105f397b71d10f79abfb6f053af47">809105f397b71d10f79abfb6f053af47</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Git hub">809105f397b71d10f79abfb6f053af47</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_080205fb97b71d10f79abfb6f053afac</sys_update_name>
+        <ui_parameter display_value="Github name">880205fb97b71d10f79abfb6f053afaa</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

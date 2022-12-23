@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream">
+    <sys_sg_item_stream action="INSERT_OR_UPDATE">
+        <data_item display_value="Git hub github">4c02c1bb97b71d10f79abfb6f053afd5</data_item>
+        <interleaved_field/>
+        <name>github Item Stream</name>
+        <sys_class_name>sys_sg_item_stream</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-22 22:15:15</sys_created_on>
+        <sys_id>400205fb97b71d10f79abfb6f053af8a</sys_id>
+        <sys_name>github Item Stream</sys_name>
+        <sys_package display_value="Git hub" source="809105f397b71d10f79abfb6f053af47">809105f397b71d10f79abfb6f053af47</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Git hub">809105f397b71d10f79abfb6f053af47</sys_scope>
+        <sys_update_name>sys_sg_item_stream_400205fb97b71d10f79abfb6f053af8a</sys_update_name>
+        <table/>
+    </sys_sg_item_stream>
+</record_update>

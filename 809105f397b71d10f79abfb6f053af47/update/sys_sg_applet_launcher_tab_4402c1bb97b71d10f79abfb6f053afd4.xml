@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
+    <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applet_launcher display_value="Git hub">c002c1bb97b71d10f79abfb6f053afd3</applet_launcher>
+        <icon display_value="Home Git hub">8402c1bb97b71d10f79abfb6f053afd4</icon>
+        <label>Git hub</label>
+        <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-22 22:15:15</sys_created_on>
+        <sys_id>4402c1bb97b71d10f79abfb6f053afd4</sys_id>
+        <sys_name>Git hub</sys_name>
+        <sys_package display_value="Git hub" source="809105f397b71d10f79abfb6f053af47">809105f397b71d10f79abfb6f053af47</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Git hub">809105f397b71d10f79abfb6f053af47</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_tab_4402c1bb97b71d10f79abfb6f053afd4</sys_update_name>
+    </sys_sg_applet_launcher_tab>
+</record_update>
