@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_master_item">
+    <sys_sg_item_stream_m2m_master_item action="INSERT_OR_UPDATE">
+        <item_stream display_value="github Item Stream">400205fb97b71d10f79abfb6f053af8a</item_stream>
+        <master_item display_value="github master_item">080205fb97b71d10f79abfb6f053af8b</master_item>
+        <sys_class_name>sys_sg_item_stream_m2m_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-22 22:15:15</sys_created_on>
+        <sys_id>c40205fb97b71d10f79abfb6f053af8c</sys_id>
+        <sys_name/>
+        <sys_package display_value="Git hub" source="809105f397b71d10f79abfb6f053af47">809105f397b71d10f79abfb6f053af47</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Git hub">809105f397b71d10f79abfb6f053af47</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_master_item_c40205fb97b71d10f79abfb6f053af8c</sys_update_name>
+    </sys_sg_item_stream_m2m_master_item>
+</record_update>

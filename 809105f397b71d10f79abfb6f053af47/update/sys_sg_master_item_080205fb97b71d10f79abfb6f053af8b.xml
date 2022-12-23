@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order/>
+        <datasource_table>u_github</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="github Form Screen">c40205fb97b71d10f79abfb6f053af87</embedded_screen>
+        <item_view/>
+        <name>github master_item</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-22 22:15:15</sys_created_on>
+        <sys_id>080205fb97b71d10f79abfb6f053af8b</sys_id>
+        <sys_name>github master_item</sys_name>
+        <sys_package display_value="Git hub" source="809105f397b71d10f79abfb6f053af47">809105f397b71d10f79abfb6f053af47</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Git hub">809105f397b71d10f79abfb6f053af47</sys_scope>
+        <sys_update_name>sys_sg_master_item_080205fb97b71d10f79abfb6f053af8b</sys_update_name>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="github List Screen View Config">880205fb97b71d10f79abfb6f053af74</view_config>
+    </sys_sg_master_item>
+</record_update>
